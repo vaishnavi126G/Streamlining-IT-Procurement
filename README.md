@@ -50,9 +50,14 @@ nm pro/
 
 📝 Sample Project Documentation.docx
 
-└── 📁 8.Project Demonstration/
-    ├── 📝 Communication.docx
-    ├── 📝 Demonstration of Proposed Features.docx
-    ├── 📝 Project Demo Planning.docx
-    ├── 📝 Scalability & Future Plan.docx
-    └── 📝 Team Involvement in Demonstration.docx
+📁 8.Project Demonstration/
+
+📝 Communication.docx
+
+📝 Demonstration of Proposed Features.docx
+
+📝 Project Demo Planning.docx
+
+📝 Scalability & Future Plan.docx
+
+📝 Team Involvement in Demonstration.docx
